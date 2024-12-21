@@ -1,15 +1,13 @@
 # Hi there 👋
 
 ## 💫 About Me:
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...
+- 🔭 I’m currently stydying in ITMO University, working as a full-stack developer
+- 📫 How to reach me: Telegram: @rawfish39
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asd) 
+[![HeadHunter](no-photo)]([https://linkedin.com/in/asd](https://spb.hh.ru/resume/c4bb4d1cff0dc9c0b10039ed1f5130556a4370)) 
+
 
 ## 💻 Tech Stack:
 ### Languages
@@ -24,7 +22,10 @@
 
 ### Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Goose47&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -33,4 +34,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Goose47&icon=0&color=0)](https://visitcount.itsvg.in)
-
